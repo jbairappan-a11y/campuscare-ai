@@ -60,7 +60,7 @@ campuscare-ai/
 
 The application is deployed using Vercel.
 
-**Live Demo:** Add your Vercel URL here.
+**Live Demo:** https://your-project.vercel.app
 
 ## 💻 Run Locally
 
